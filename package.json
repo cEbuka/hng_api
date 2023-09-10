@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "returns endpoint",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "end",
+    "point"
+  ],
+  "author": "Simon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "luxon": "^1.27.0"
+  }
+}
